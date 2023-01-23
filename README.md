@@ -1,2 +1,2 @@
-# Website-CPI1
-Projeto de Website na matéria de Construção de Páginas para Internet 1 - IFB, campus Brasilia.
+# Website-CPI
+Projeto final de Website na matéria de Construção de Páginas do 1º semestre/2022
